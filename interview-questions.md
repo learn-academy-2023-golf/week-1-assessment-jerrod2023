@@ -16,14 +16,14 @@ Researched answer:
 
 1. What is git? What is the difference between git and Github?
 
-Your answer:
+Your answer: git is a device where we keep everything align and github is a website that connects git for developers to use.
 
-Researched answer:
+Researched answer: Git is a controler that keep everything organized and github is platform that used by developers to store and share coding projects.
 
 
 2. What is the difference between an array's index and its value?
 
-Your answer:
+Your answer: they define the numbers in the array and value are items inside the elemen.
 
 Researched answer:
 
@@ -31,18 +31,18 @@ Researched answer:
 
 Your answer:
 
-Researched answer:
+Researched answer: are sequential numbers that are a bit like address for all elements and value are content of each element.
 
 4. STRETCH: What are the four pillars of object oriented programming?
 
-Researched answer:
+Researched answer: abstraction, encapsulation, inheritance and polymorphism.
 
 ## Looking Ahead: Terms for Next Week
 
 Research and define the following terms. Hint: use the syllabus!
 
-1. Higher Order Functions:
+1. Higher Order Functions: are built methods in JS, they are a specific subset of built in methods that take a function as argument. 
 
-2. Jest:
+2. Jest: is a JS testing framework designed to ensure correcness of any JS codebase. 
 
-3. Objects:
+3. Objects: collection of key:valeu pairs. 
